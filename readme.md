@@ -1,14 +1,10 @@
 # About me
 
-Machine Learning Researcher with a focus on Natural Language Processing and more than 5 years of experience in ML / AI Research and Development in big companies. 
+I am a Machine Learning Researcher focusing on Natural Language Processing with over five years of experience in Machine Learning Research and Development in big tech (Huawei, Google, Sberbank). As a graduate of the Faculty of Mechanics and Mathematics (MSU), I aim to unlock the potential hidden in the latent space of Language Models and make Artificial Intelligence more transparent and interpretable with beautiful tools given to us by mathematics. 
 
-- Graduated from Lomonosov Moscow State University as Mathematician in 2015.
-- Published several papers on applications of Topological Data Analysis for improving the interpretability and quality of the Transformers while working in Huawei;
-- Developed the prototype of an ML model for improving GNSS navigation on Android devices in the city canyon while working in Google;
-- Developed small entity extraction models while working in Sberbank;
-- Aside from ML research and development experience, worked as C++(Qt) Software Developer for nearly a year in total.
+Aside from my research experience (gained mostly in Huawei), I also had experience as an engineer/developer, which included, in particular, designing and tuning Machine Learning models for improving GNSS navigation (in Google), entity extraction (in Sberbank), and developing small markup tools.
 
-I like to read and discuss the papers on Machine Learning (especially Natural Language Processing) and to learn about new achievements in this field. I'm glad to see how many abstract mathematical conceptions find an applications in this area of knowledge. You can ask me anything about my own research papers (see contacts at the bottom of the page). 
+Below, you can find links to various resources in English (marked as "EN") and in Russian (marked as "RU") related to me and my work.
 
 # Scientific papers and artifacts
 
@@ -18,6 +14,7 @@ I like to read and discuss the papers on Machine Learning (especially Natural La
 
 # Contacts
 
-- Telegram chanel:
-- Telegram id: 
-- LinkedIn: https://www.linkedin.com/in/laida-kushnareva/
+- LinkedIn (EN): https://www.linkedin.com/in/laida-kushnareva/
+- Habr (RU): https://habr.com/ru/users/tech_priestess/
+- Telegram channel (RU): https://t.me/tech_priestess
+- Telegram id (RU): @laida_kushnareva
