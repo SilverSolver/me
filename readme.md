@@ -1,6 +1,4 @@
-# Laida Kushnareva (personal page)
-
-## About me
+# About me
 
 Machine Learning Researcher with a focus on Natural Language Processing and more than 5 years of experience in ML / AI Research and Development in big companies. 
 
@@ -12,13 +10,13 @@ Machine Learning Researcher with a focus on Natural Language Processing and more
 
 I like to read and discuss the papers on Machine Learning (especially Natural Language Processing) and to learn about new achievements in this field. I'm glad to see how many abstract mathematical conceptions find an applications in this area of knowledge. You can ask me anything about my own research papers (see contacts at the bottom of the page). 
 
-## Scientific papers and artifacts
+# Scientific papers and artifacts
 
 
-## Various talks
+# Various talks
 
 
-## Contacts
+# Contacts
 
 - Telegram chanel:
 - Telegram id: 
