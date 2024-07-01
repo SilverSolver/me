@@ -24,7 +24,7 @@ Below, you can find links to various resources in English (marked as "EN") and i
 
 - A paper by Eduard Tulchinskii, Kristian Kuznetsov, Laida Kushnareva, Daniil Cherniavskii, Serguei Barannikov, Irina Piontkovskaya, Sergey Nikolenko, and Evgeny Burnaev. Published in **Proceedings of INTERSPEECH 2023**.
 - **Abstract**: We apply topological data analysis (TDA) to speech classification problems and to the introspection of a pretrained speech model, HuBERT. To this end, we introduce a number of topological and algebraic features derived from Transformer attention maps and embeddings. We show that a simple linear classifier built on top of such features outperforms a fine-tuned classification head. In particular, we achieve an improvement of about 9% accuracy and 5% ERR on four common datasets; on CREMA-D, the proposed feature set reaches a new state of the art performance with accuracy 80.155. We also show that topological features are able to reveal functional roles of speech Transformer heads; e.g., we find the heads capable to distinguish between pairs of sample sources (natural/synthetic) or voices without any downstream fine-tuning. Our results demonstrate that TDA is a promising new approach for speech analysis, especially for tasks that require structural prediction.
-- [**Website with appendices, an introduction to TDA, and other additional materials, related to this paper (EN)**](https://topohubert.github.io/speech-topology-webpages/)
+- [**Website with appendices, an introduction to TDA, and other additional materials, related to this paper (EN)**](https://topohubert.github.io/speech-topology-webpages/).
 
 ### [Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7baa48bc166aa2013d78cbdc15010530-Abstract-Conference.html)
 
@@ -40,10 +40,10 @@ You can see the full list of papers and preprints on [my Google Scholar page](ht
 
 # Blogs
 
-- Telegram channel (RU): https://t.me/tech_priestess
-- Habr (RU): https://habr.com/ru/users/tech_priestess/
+- [**Telegram channel** (RU)](https://t.me/tech_priestess)
+- [**Habr** (RU)](https://habr.com/ru/users/tech_priestess/)
 
 # Contacts
 
-- LinkedIn: https://www.linkedin.com/in/laida-kushnareva/
+- [LinkedIn](https://www.linkedin.com/in/laida-kushnareva/)
 - Telegram id: @laida_kushnareva
