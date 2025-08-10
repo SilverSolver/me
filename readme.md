@@ -49,12 +49,8 @@ You can see the full list of papers and preprints on my [**Google Scholar**](htt
 - **Lecture on Transformer acrhitecture** for Deep Learning School: [**part 1**](https://www.youtube.com/watch?v=lK0hqrVHrUA), [**part 2**](https://www.youtube.com/watch?v=cKPDBXjD9lo), [**part 3**](https://www.youtube.com/watch?v=BgFqtC866qE), 2023
 - A talk "[**How to fool AI-generated text detectors**](https://www.youtube.com/watch?v=nqP23FBl4Rc)" for DataFest, 2024.
 
-# Blogs (RU)
+# Blogs and Contacts (RU)
 
 - [**Telegram channel**](https://t.me/tech_priestess)
 - [**Habr articles**](https://habr.com/ru/users/tech_priestess/publications/articles/)
-
-# Contacts
-
-- [LinkedIn](https://www.linkedin.com/in/laida-kushnareva/)
-- Telegram id: @laida_kushnareva
+- [**LinkedIn page**](https://www.linkedin.com/in/laida-kushnareva/)
