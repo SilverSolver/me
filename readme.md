@@ -1,6 +1,6 @@
 # Laida Kushnareva : about
 
-I am a Machine Learning Researcher focusing on Natural Language Processing with over five years of experience in Machine Learning Research and Development in big tech (Huawei, Google, Sberbank). As a graduate of the Faculty of Mechanics and Mathematics (MSU), I aim to unlock the potential hidden in the latent space of Language Models and make Artificial Intelligence more transparent and interpretable with beautiful tools given to us by mathematics. 
+I am a Machine Learning Researcher focusing on Natural Language Processing with over seven years of experience in Machine Learning Research and Development, mostly in big tech (Huawei, Google, Sberbank). As a graduate of the Faculty of Mechanics and Mathematics (MSU), I aim to unlock the potential hidden in the latent space of Language Models and make Artificial Intelligence more transparent and interpretable with beautiful tools given to us by mathematics. 
 
 Aside from my research experience (gained mostly in Huawei), I also had experience as an engineer/developer, which included, in particular, designing and tuning Machine Learning models for improving GNSS navigation (in Google), entity extraction (in Sberbank), and developing small markup tools.
 
